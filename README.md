@@ -1,4 +1,4 @@
-# multisite-lighthouse-gcp
+# Serverless Lighthouse Audit
 Run Lighthouse audits on URLs, and write the results daily into a BigQuery table.
 
 # Steps (needs rewrite)
